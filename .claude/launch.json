@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "expo-web",
+      "runtimeExecutable": "D:\\Claude_Code\\App\\.claude\\run-expo-web.cmd",
+      "runtimeArgs": [],
+      "port": 8081
+    }
+  ]
+}
